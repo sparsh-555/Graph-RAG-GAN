@@ -51,21 +51,7 @@ By incorporating a GraphRAG-style retriever into the discriminator loop, we vali
 - [ ] Paper draft preparation
 - [ ] Demo notebook + Colab
 
----
 
-## 📂 Repo Structure (planned)
-graphrag-gan/
-├── models/
-│   ├── generator.py
-│   ├── graph_discriminator.py
-│   └── graph_retriever.py
-├── data/
-│   └── graph_knowledge_base/
-├── utils/
-│   └── metrics.py
-├── train.py
-├── config.yaml
-└── README.md
 ---
 
 ## 🤝 Contributions
