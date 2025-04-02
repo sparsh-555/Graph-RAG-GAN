@@ -1,4 +1,4 @@
-# GraphRAG-GAN 🧠🎨
+# GraphRAG-GAN
 
 **Graph-Guided Retrieval-Augmented Generative Adversarial Network for Faithful, Explainable Image Generation**
 
